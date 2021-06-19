@@ -3,7 +3,8 @@
 
 ## Built With
 
-- Ruby On Rails
+- Ruby
+- Rails
 
 ## Author
 
